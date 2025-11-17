@@ -1,7 +1,4 @@
 # Young-duoble-slits-Interference-Sim
-模拟杨氏双缝干涉实验
-# Young-White-Interference-Sim
-
 **一键生成彩色杨氏双缝干涉图样的教学级 Python 工具箱**
 
 ---
