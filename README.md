@@ -5,7 +5,7 @@
 
 ## 🌈 项目简介
 
-`Young-White-Interference-Sim` 用 NumPy + Matplotlib 即可运行，无需商业软件。  
+`Young-duoble-slits-Interference-Sim` 用 NumPy + Matplotlib 即可运行，无需商业软件。  
 - 支持 **钠光（589 nm）** 与 **白光（370 nm 带宽）** 两种主流教学光源  
 - 自动输出 **真彩色条纹 + 归一化光强曲线**，可直接用于 PPT、教材或论文插图  
 - 所有参数与本科教学仪器对标，修改即可换实验条件
